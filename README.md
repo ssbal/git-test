@@ -1,2 +1,4 @@
-# git-test
-My first github repo after reboot ✔😍
+# Git Test
+
+Back on track with learning basics of Web development. 🐱‍🏍
+🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤

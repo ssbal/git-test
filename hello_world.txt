@@ -1,0 +1,6 @@
+1. Git (Basics)
+2. HTML
+3. CSS
+4. JavaScript
+5. Ruby
+6. Ruby on Rails
